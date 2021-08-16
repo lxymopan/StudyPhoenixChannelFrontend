@@ -1,5 +1,6 @@
-Study a PhoenixChannel project from a video
-# video link:
+# Study a PhoenixChannel project from a video
+
+video link:
 https://www.bilibili.com/video/BV124411E7Nw
 
 
