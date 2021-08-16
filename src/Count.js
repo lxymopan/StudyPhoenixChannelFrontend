@@ -22,7 +22,7 @@ const Count = (props) => {
 
     return (
         <div>
-            <h1>{'This value is count in realtime, in the #{channelName} channel.'}</h1>
+            <h1>{`This value is count in realtime, in the ${channelName} channel`}</h1>
             { count }
             <button onClick={() => broadcast('increment', {amount: 1})}>Increment</button>
             <button onClick={() => broadcast('decrement', {amount: 1})}>Decrement</button>
